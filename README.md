@@ -1,7 +1,7 @@
 # blog-app
 
 
-1)Create a folder(i.e. blog) in your respective folder(i.e. C:/Desktop/Authentication)
+1)Create a folder(i.e. blog) in your respective folder(i.e. C:/Desktop/blog)
 
 2)drag and drop the files and folders(client and server) to the respective folders(client and server at the place i.e. C:/Desktop/blog/)
 
